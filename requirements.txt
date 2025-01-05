@@ -4,5 +4,7 @@ keras>=2.16.0
 numpy>=1.23.0
 nltk>=3.8.0
 h5py>=3.8.0
-pillow==9.5.0
+pillow==9.5.0 --only-binary=:all:
+
+
 
